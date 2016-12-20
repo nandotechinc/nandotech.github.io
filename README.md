@@ -1,4 +1,6 @@
-# nandotech.github.io
+# Fork of active blog @ nandotech/nandotech.github.io
+
+This was used for testing & deploying to secondary domain
 
 # NandoTech Blog
 
